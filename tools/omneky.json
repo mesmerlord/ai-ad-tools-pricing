@@ -1,0 +1,35 @@
+{
+  "name": "Omneky",
+  "slug": "omneky",
+  "website": "https://www.omneky.com",
+  "pricing_url": "https://www.omneky.com/pricing-plans",
+  "checked": "2026-11-10",
+  "free_tier": "7-day free trial",
+  "plans": [
+    {
+      "name": "Lite",
+      "monthly_usd": 29,
+      "yearly_usd_per_month": 24,
+      "includes": "200 credits a month, 1 brand, 1 seat",
+      "unit": "image ad",
+      "units_per_month": 28
+    },
+    {
+      "name": "Standard",
+      "monthly_usd": 99,
+      "yearly_usd_per_month": 79,
+      "includes": "1,000 credits a month, 3 brands, 3 seats",
+      "unit": "image ad",
+      "units_per_month": 142
+    },
+    {
+      "name": "Pro",
+      "monthly_usd": 249,
+      "yearly_usd_per_month": 199,
+      "includes": "3,000 credits a month, 5 brands, 5 seats",
+      "unit": "image ad",
+      "units_per_month": 428
+    }
+  ],
+  "note": "An HD image ad costs 7 credits (14 at 4K)."
+}

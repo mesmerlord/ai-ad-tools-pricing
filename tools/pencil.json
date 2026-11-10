@@ -1,0 +1,23 @@
+{
+  "name": "Pencil",
+  "slug": "pencil",
+  "website": "https://trypencil.com",
+  "pricing_url": "https://trypencil.com/pricing",
+  "checked": "2026-11-10",
+  "free_tier": "Six free ads through a guided experience",
+  "plans": [
+    {
+      "name": "Core",
+      "monthly_usd": 14,
+      "yearly_usd_per_month": 11,
+      "includes": "50 generations per month"
+    },
+    {
+      "name": "Growth",
+      "monthly_usd": 55,
+      "yearly_usd_per_month": 44,
+      "includes": "250 generations per month"
+    }
+  ],
+  "note": "A generation is any AI call, not one finished ad."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Zeely",
+  "slug": "zeely",
+  "website": "https://zeely.ai",
+  "pricing_url": "https://zeely.ai/price/",
+  "checked": "2026-11-10",
+  "free_tier": null,
+  "plans": [
+    {
+      "name": "Starter",
+      "monthly_usd": 29.95,
+      "yearly_usd_per_month": null,
+      "includes": "2,500 credits"
+    },
+    {
+      "name": "Plus",
+      "monthly_usd": 49.95,
+      "yearly_usd_per_month": null,
+      "includes": "5,000 credits"
+    },
+    {
+      "name": "Growth",
+      "monthly_usd": 79.95,
+      "yearly_usd_per_month": null,
+      "includes": "10,000 credits"
+    }
+  ],
+  "note": "Shown as discounted from $49.95, $89.95 and $149.95 and marked \"Available only on the site\". No yearly price or free tier shown."
+}

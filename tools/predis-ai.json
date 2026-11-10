@@ -1,0 +1,35 @@
+{
+  "name": "Predis.ai",
+  "slug": "predis-ai",
+  "website": "https://predis.ai",
+  "pricing_url": "https://predis.ai/pricing/",
+  "checked": "2026-11-10",
+  "free_tier": "3-day free trial, card required",
+  "plans": [
+    {
+      "name": "Core",
+      "monthly_usd": 32,
+      "yearly_usd_per_month": 19,
+      "includes": "1,300 credits / month, 1 brand",
+      "unit": "image ad",
+      "units_per_month": 86
+    },
+    {
+      "name": "Rise",
+      "monthly_usd": 79,
+      "yearly_usd_per_month": 40,
+      "includes": "3,200 credits / month, up to 4 brands",
+      "unit": "image ad",
+      "units_per_month": 213
+    },
+    {
+      "name": "Enterprise+",
+      "monthly_usd": 249,
+      "yearly_usd_per_month": 212,
+      "includes": "10,000 credits / month, unlimited brands",
+      "unit": "image ad",
+      "units_per_month": 666
+    }
+  ],
+  "note": "The yearly prices are a BFCM offer on the page (up to 50% off yearly plans). The FAQ prices an image ad creative at 15 credits; the plan cards say about 325 images for 1,300 credits."
+}

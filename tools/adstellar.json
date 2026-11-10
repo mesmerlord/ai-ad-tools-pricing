@@ -1,0 +1,19 @@
+{
+  "name": "AdStellar",
+  "slug": "adstellar",
+  "website": "https://www.adstellar.ai",
+  "pricing_url": "https://www.adstellar.ai/pricing",
+  "checked": "2026-11-10",
+  "free_tier": "7-day free trial, $100 in free credits",
+  "plans": [
+    {
+      "name": "Team",
+      "monthly_usd": 100,
+      "yearly_usd_per_month": null,
+      "includes": "50,000 credits / month",
+      "unit": "image ad",
+      "units_per_month": 500
+    }
+  ],
+  "note": "About 100 credits per AI image ad, so roughly 500 image ads a month. Monthly billing only."
+}

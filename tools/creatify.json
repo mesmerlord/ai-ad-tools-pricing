@@ -1,0 +1,35 @@
+{
+  "name": "Creatify",
+  "slug": "creatify",
+  "website": "https://creatify.ai",
+  "pricing_url": "https://creatify.ai/pricing",
+  "checked": "2026-11-10",
+  "free_tier": "Free plan: 10 credits a month, watermarked",
+  "plans": [
+    {
+      "name": "Standard",
+      "monthly_usd": 15,
+      "yearly_usd_per_month": 10,
+      "includes": "55 credits / mo"
+    },
+    {
+      "name": "Pro",
+      "monthly_usd": 55,
+      "yearly_usd_per_month": 38,
+      "includes": "280 credits / mo"
+    },
+    {
+      "name": "Ultra",
+      "monthly_usd": 95,
+      "yearly_usd_per_month": 66,
+      "includes": "730 credits / mo"
+    },
+    {
+      "name": "Business",
+      "monthly_usd": 195,
+      "yearly_usd_per_month": 136,
+      "includes": "1,500 credits / mo, 10 seats"
+    }
+  ],
+  "note": "Videos per credit depend on the model, so there is no per-video count."
+}

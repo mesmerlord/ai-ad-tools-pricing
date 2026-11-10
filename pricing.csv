@@ -1,0 +1,29 @@
+tool,plan,monthly_usd,yearly_usd_per_month,includes,unit,units_per_month,cost_per_unit_usd,free_tier,pricing_url,checked
+AdMakeAI,Starter,39,27.3,500 ad credits/month,image ad,250,0.1560,"30 credits on signup, no card",https://admakeai.com/pricing,2026-11-10
+AdMakeAI,Professional,79,63.2,1500 ad credits/month,image ad,750,0.1053,"30 credits on signup, no card",https://admakeai.com/pricing,2026-11-10
+AdMakeAI,Business,139,111.2,4000 ad credits/month,image ad,2000,0.0695,"30 credits on signup, no card",https://admakeai.com/pricing,2026-11-10
+AdCreative.ai,Starter,39,20,20 Credits / Month,image ad,20,1.9500,"7-day free trial, 20 credits",https://www.adcreative.ai/#section-pricing,2026-11-10
+AdCreative.ai,Professional,249,125,300 Credits / Month,image ad,300,0.8300,"7-day free trial, 20 credits",https://www.adcreative.ai/#section-pricing,2026-11-10
+AdCreative.ai,Ultimate,999,500,300 Credits / Month,image ad,300,3.3300,"7-day free trial, 20 credits",https://www.adcreative.ai/#section-pricing,2026-11-10
+AdStellar,Team,100,,"50,000 credits / month",image ad,500,0.2000,"7-day free trial, $100 in free credits",https://www.adstellar.ai/pricing,2026-11-10
+Creatify,Standard,15,10,55 credits / mo,,,,"Free plan: 10 credits a month, watermarked",https://creatify.ai/pricing,2026-11-10
+Creatify,Pro,55,38,280 credits / mo,,,,"Free plan: 10 credits a month, watermarked",https://creatify.ai/pricing,2026-11-10
+Creatify,Ultra,95,66,730 credits / mo,,,,"Free plan: 10 credits a month, watermarked",https://creatify.ai/pricing,2026-11-10
+Creatify,Business,195,136,"1,500 credits / mo, 10 seats",,,,"Free plan: 10 credits a month, watermarked",https://creatify.ai/pricing,2026-11-10
+HeyGen,Creator,29,24,600 credits,,,,"Free plan: 3 videos a month, watermarked",https://www.heygen.com/pricing,2026-11-10
+HeyGen,Pro,49,41,"1,000 credits",,,,"Free plan: 3 videos a month, watermarked",https://www.heygen.com/pricing,2026-11-10
+HeyGen,Business,149,119,"1,500 credits, plus $20/seat/month per team member",,,,"Free plan: 3 videos a month, watermarked",https://www.heygen.com/pricing,2026-11-10
+MakeUGC,Starter,59,29,500 credits / mo,,,,Try any plan for $1,https://makeugc.ai/pricing,2026-11-10
+MakeUGC,Growth,79,39,"1,000 credits / mo",,,,Try any plan for $1,https://makeugc.ai/pricing,2026-11-10
+MakeUGC,Pro,149,79,"2,000–5,000 credits / mo",,,,Try any plan for $1,https://makeugc.ai/pricing,2026-11-10
+Omneky,Lite,29,24,"200 credits a month, 1 brand, 1 seat",image ad,28,1.0357,7-day free trial,https://www.omneky.com/pricing-plans,2026-11-10
+Omneky,Standard,99,79,"1,000 credits a month, 3 brands, 3 seats",image ad,142,0.6972,7-day free trial,https://www.omneky.com/pricing-plans,2026-11-10
+Omneky,Pro,249,199,"3,000 credits a month, 5 brands, 5 seats",image ad,428,0.5818,7-day free trial,https://www.omneky.com/pricing-plans,2026-11-10
+Pencil,Core,14,11,50 generations per month,,,,Six free ads through a guided experience,https://trypencil.com/pricing,2026-11-10
+Pencil,Growth,55,44,250 generations per month,,,,Six free ads through a guided experience,https://trypencil.com/pricing,2026-11-10
+Predis.ai,Core,32,19,"1,300 credits / month, 1 brand",image ad,86,0.3721,"3-day free trial, card required",https://predis.ai/pricing/,2026-11-10
+Predis.ai,Rise,79,40,"3,200 credits / month, up to 4 brands",image ad,213,0.3709,"3-day free trial, card required",https://predis.ai/pricing/,2026-11-10
+Predis.ai,Enterprise+,249,212,"10,000 credits / month, unlimited brands",image ad,666,0.3739,"3-day free trial, card required",https://predis.ai/pricing/,2026-11-10
+Zeely,Starter,29.95,,"2,500 credits",,,,,https://zeely.ai/price/,2026-11-10
+Zeely,Plus,49.95,,"5,000 credits",,,,,https://zeely.ai/price/,2026-11-10
+Zeely,Growth,79.95,,"10,000 credits",,,,,https://zeely.ai/price/,2026-11-10

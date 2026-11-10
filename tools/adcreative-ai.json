@@ -1,0 +1,35 @@
+{
+  "name": "AdCreative.ai",
+  "slug": "adcreative-ai",
+  "website": "https://www.adcreative.ai",
+  "pricing_url": "https://www.adcreative.ai/#section-pricing",
+  "checked": "2026-11-10",
+  "free_tier": "7-day free trial, 20 credits",
+  "plans": [
+    {
+      "name": "Starter",
+      "monthly_usd": 39,
+      "yearly_usd_per_month": 20,
+      "includes": "20 Credits / Month",
+      "unit": "image ad",
+      "units_per_month": 20
+    },
+    {
+      "name": "Professional",
+      "monthly_usd": 249,
+      "yearly_usd_per_month": 125,
+      "includes": "300 Credits / Month",
+      "unit": "image ad",
+      "units_per_month": 300
+    },
+    {
+      "name": "Ultimate",
+      "monthly_usd": 999,
+      "yearly_usd_per_month": 500,
+      "includes": "300 Credits / Month",
+      "unit": "image ad",
+      "units_per_month": 300
+    }
+  ],
+  "note": "Pricing is on the homepage (/pricing returns 404). The yearly prices are a Black Friday offer on the page (50% off quarterly and yearly plans). A credit is used per downloaded ad."
+}

@@ -1,0 +1,35 @@
+{
+  "name": "AdMakeAI",
+  "slug": "admakeai",
+  "website": "https://admakeai.com",
+  "pricing_url": "https://admakeai.com/pricing",
+  "checked": "2026-11-10",
+  "free_tier": "30 credits on signup, no card",
+  "plans": [
+    {
+      "name": "Starter",
+      "monthly_usd": 39,
+      "yearly_usd_per_month": 27.3,
+      "includes": "500 ad credits/month",
+      "unit": "image ad",
+      "units_per_month": 250
+    },
+    {
+      "name": "Professional",
+      "monthly_usd": 79,
+      "yearly_usd_per_month": 63.2,
+      "includes": "1500 ad credits/month",
+      "unit": "image ad",
+      "units_per_month": 750
+    },
+    {
+      "name": "Business",
+      "monthly_usd": 139,
+      "yearly_usd_per_month": 111.2,
+      "includes": "4000 ad credits/month",
+      "unit": "image ad",
+      "units_per_month": 2000
+    }
+  ],
+  "note": "A standard (Fast) image ad costs 2 credits; higher quality costs 8 or 20. UGC video clips cost 5, 15 or 50 credits."
+}

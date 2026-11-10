@@ -1,0 +1,29 @@
+{
+  "name": "MakeUGC",
+  "slug": "makeugc",
+  "website": "https://makeugc.ai",
+  "pricing_url": "https://makeugc.ai/pricing",
+  "checked": "2026-11-10",
+  "free_tier": "Try any plan for $1",
+  "plans": [
+    {
+      "name": "Starter",
+      "monthly_usd": 59,
+      "yearly_usd_per_month": 29,
+      "includes": "500 credits / mo"
+    },
+    {
+      "name": "Growth",
+      "monthly_usd": 79,
+      "yearly_usd_per_month": 39,
+      "includes": "1,000 credits / mo"
+    },
+    {
+      "name": "Pro",
+      "monthly_usd": 149,
+      "yearly_usd_per_month": 79,
+      "includes": "2,000–5,000 credits / mo"
+    }
+  ],
+  "note": "Pro's credits are a 2,000 to 5,000 range set by a slider. The trial costs $1."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "HeyGen",
+  "slug": "heygen",
+  "website": "https://www.heygen.com",
+  "pricing_url": "https://www.heygen.com/pricing",
+  "checked": "2026-11-10",
+  "free_tier": "Free plan: 3 videos a month, watermarked",
+  "plans": [
+    {
+      "name": "Creator",
+      "monthly_usd": 29,
+      "yearly_usd_per_month": 24,
+      "includes": "600 credits"
+    },
+    {
+      "name": "Pro",
+      "monthly_usd": 49,
+      "yearly_usd_per_month": 41,
+      "includes": "1,000 credits"
+    },
+    {
+      "name": "Business",
+      "monthly_usd": 149,
+      "yearly_usd_per_month": 119,
+      "includes": "1,500 credits, plus $20/seat/month per team member"
+    }
+  ],
+  "note": "Business adds $20 per seat per month for each team member."
+}

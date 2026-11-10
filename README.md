@@ -41,7 +41,7 @@ The same data as a web page: https://admakeai.com/pricing-comparison. Maintained
 | HeyGen | Business | $149 | $119 | 1,500 credits, plus $20/seat/month per team member | - | [pricing page](https://www.heygen.com/pricing) | 2026-11-10 |
 | MakeUGC | Starter | $59 | $29 | 500 credits / mo | - | [pricing page](https://makeugc.ai/pricing) | 2026-11-10 |
 | MakeUGC | Growth | $79 | $39 | 1,000 credits / mo | - | [pricing page](https://makeugc.ai/pricing) | 2026-11-10 |
-| MakeUGC | Pro | $149 | $79 | 2,000–5,000 credits / mo | - | [pricing page](https://makeugc.ai/pricing) | 2026-11-10 |
+| MakeUGC | Pro | $149 | $79 | 2,000-5,000 credits / mo | - | [pricing page](https://makeugc.ai/pricing) | 2026-11-10 |
 | Omneky | Lite | $29 | $24 | 200 credits a month, 1 brand, 1 seat | $1.04 per image ad | [pricing page](https://www.omneky.com/pricing-plans) | 2026-11-10 |
 | Omneky | Standard | $99 | $79 | 1,000 credits a month, 3 brands, 3 seats | $0.70 per image ad | [pricing page](https://www.omneky.com/pricing-plans) | 2026-11-10 |
 | Omneky | Pro | $249 | $199 | 3,000 credits a month, 5 brands, 5 seats | $0.58 per image ad | [pricing page](https://www.omneky.com/pricing-plans) | 2026-11-10 |
